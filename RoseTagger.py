@@ -52,15 +52,15 @@ logging.basicConfig(
 )
 LOGGER = logging.getLogger(__name__)
 
-API_ID = int(os.environ.get("API_ID", "3939406"))
-API_HASH = os.environ.get("API_HASH", "e11d0eaec136b1047974ab098041e9f2")
-BOT_TOKEN = os.environ.get("TOKEN", "7332183812:AAGLJrYtd_J8qXaJ_65jvWnPsg5F5svDvKE")  
+API_ID = int(os.environ.get("API_ID", "25863463"))
+API_HASH = os.environ.get("API_HASH", "efa6106ac2931cf0f6258f8b886893aa")
+BOT_TOKEN = os.environ.get("TOKEN", "8214755225:AAF1hfDRFRc4RWE-yn-ae8bDHC9T1n0tmQ4")  
 
-BOT_ID = int(os.environ.get("BOT_ID", "7332183812"))  
+BOT_ID = int(os.environ.get("BOT_ID", "8214755225"))  
 
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "TgramMuzikBot")  
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002175552878))  
-OWNER_ID = 7242000752  # Sahip hesabın id'si
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "ecemtagbot")  
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002921951934))  
+OWNER_ID = 7906174826  # Sahip hesabın id'si
 
 
 
