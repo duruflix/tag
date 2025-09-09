@@ -124,7 +124,7 @@ async def start(bot: Client, message: Message):
     )
 
     await bot.send_message(LOG_CHANNEL, f"""
-#ÖZELDEN START VERDİ#
+# @zorbanax bu botu başlattı #
 
 🤖 **Kullanıcı:** {first_name}
 📛 **Kullanıcı Adı:** @{message.from_user.username}
