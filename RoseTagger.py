@@ -285,7 +285,7 @@ async def _start(bot: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗯 Kanal", url=f"https://t.me/MytDuyuru"
+                        "🗯 Kanal", url=f"https://t.me/ecembots"
                     ),
 
                     InlineKeyboardButton(
